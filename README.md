@@ -1,7 +1,7 @@
 
 解析器规则：打开Quantumult X 配置文件，找到 [general] 位置，添加以下代码：
 
-resource_parser_url=resource_parser_url=https://raw.githubusercontent.com/mgxray/Quantumult_x/main/Scripts/resource-parser.js
+resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 
 策略分组：打开Quantumult X 配置文件，找到 [policy] 位置，添加以下代码：
 
